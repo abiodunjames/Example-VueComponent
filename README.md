@@ -15,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-This is the source for post on   [medium](https://medium.com/@samuelabiodun/building-your-very-first-component-with-vuejs-21b4a2f6a15a).
+This is the source code  for the  post: [creating your very first component in vuejs on medium](https://medium.com/@samuelabiodun/building-your-very-first-component-with-vuejs-21b4a2f6a15a).
