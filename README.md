@@ -1,6 +1,6 @@
 # acme-app
 
-> A Vue.js project
+> Creating components with VueJs
 
 ## Build Setup
 
@@ -15,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+This is the source for post on   [medium](https://medium.com/@samuelabiodun/building-your-very-first-component-with-vuejs-21b4a2f6a15a).
